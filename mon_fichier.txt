@@ -3,3 +3,4 @@ Ligne ajoutee depuis le poste de l'utilisateur bis !
 Ligne de conflit depuis l'utilisateur original ! 
 
 Nouvelle ligne pour merger !
+Nouvelle ligne depuis bis pour merger !
